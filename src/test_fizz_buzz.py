@@ -1,0 +1,1 @@
+test.assert_equals((solution(20)), [5,2,1])
